@@ -1,0 +1,22 @@
+#wrapper {
+	background-color: black;
+	color: white;
+	width: 757px;
+	height: 745px;
+	padding: 0px 10px 0px 5px;
+}
+.puppies {
+	display: inline-block;
+	height: 250px;
+	width: 370px;
+	border: 3px solid gray;
+	margin: 2px 0px 0px 2px;
+}
+.images {
+	height: 250px;
+	width: 370px;
+}
+#box {
+	margin-left: -40px;
+	margin-right: -30px;
+}
